@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /home/netconfig/
+chpst -u netconfig:www-data /usr/bin/uwsgi --ini netconfig.ini

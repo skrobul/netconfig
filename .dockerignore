@@ -1,0 +1,6 @@
+.git
+tmp
+log
+docs
+tests
+*.pyc
